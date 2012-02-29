@@ -6,7 +6,7 @@
 	$.fn.emotions = function(settings,more_emotions) {
 		var _cfg = {
 			handle: 'a',
-			dir: 'http://oeminfo.googlecode.com/svn/trunk/jemotion/emotions/',
+			dir: 'oeminfo.googlecode.com/svn/trunk/jemotion/emotions/',
 			label: 'Click here to show emotion icons',
 			style: null,
 			cls: null,
