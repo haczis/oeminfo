@@ -1,0 +1,1 @@
+javascript, jquery, ajax, lightbox and hosting file for weblog
